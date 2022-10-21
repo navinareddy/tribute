@@ -1,0 +1,10 @@
+title{
+    colour: Navy;
+  }
+  img{
+    display: block;
+    max-width: 100%;
+    width: 80%;
+    height: auto;
+    margin: 1px auto 1px auto; 
+  }
